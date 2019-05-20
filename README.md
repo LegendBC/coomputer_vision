@@ -8,4 +8,4 @@
 
 课程设计为基于深度学习的肿瘤检测，目录下为报告的pdf与word版，还有廖本成，黄小虎，郭浩的目录，为对应人所设计的实验。课程设计在kaggle的kernel上完成，现已公开，网址为：https://www.kaggle.com/liaobencheng/course-design-final
 
-https://www.kaggle.com/liaobencheng/transfer-learning
+https://www.kaggle.com/liaobencheng/transfer-learning(超过kaggle给定的时间)
